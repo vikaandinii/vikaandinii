@@ -32,5 +32,5 @@ Connect with me on my LinkedIn
 
 ---
 
-![VikaAndini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikaandinii__&theme=default&hide_border=true)
+![VikaAndini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikaandinii&theme=default&hide_border=true)
 ![VikaAndini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikaandinii&theme=default&show_icons=true&hide_border=true&layout=compact)
