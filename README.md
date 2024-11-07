@@ -26,9 +26,9 @@ Connect with me on my LinkedIn
 | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="55" height="55"/> |
 
 ### Framework:
-| Laravel |
-|---------|
-| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="55" height="55"/> |
+| Laravel | Bootstrap |
+|---------|-----------|
+| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="55" height="55"/> |
 
 ---
 
